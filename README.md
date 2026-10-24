@@ -95,7 +95,7 @@ The following results were obtained during the experiments.
 | VGG16 | 99.29% | 0.9929 | 0.0320 | 617.1 s |
 | AlexNet | 99.10% | 0.9910 | 0.0326 | 152.7 s |
 | Faster R-CNN | 98.10%* | 0.9809* | Not directly comparable | 877.7 s |
-| Vision Transformer | To be completed | To be completed | To be completed | To be completed |
+| Vision Transformer | 97.49% | 0.9749 | 0.0870 |  67.7 s |
 
 **Evaluation notes:**
 - CNN, VGG16, and AlexNet were evaluated on the 10,000-image MNIST test set.
